@@ -22,24 +22,13 @@
 
 <br/>
 
+
+
 ## 👋 About Me
 
-<table>
-<tr><td>
-
-I'm **Shoheb Kazi**, founder of **SK TechVerse** — a software studio building premium, production-ready digital products for modern businesses.
-
-- ✔️ Passionate **Full Stack Developer** — MERN stack, end to end
-- ✔️ **AI Enthusiast** — integrating LLMs and AI features into real products
-- ✔️ Building **premium business websites**, dashboards, and admin systems
-- ✔️ Strong **UI/UX** instinct — clean, glassmorphism, dark-premium aesthetics
-- ✔️ Available as a **freelancer** for client projects
-- ✔️ Focused on **solving real-world problems** with code
-- 🎓 Pursuing my **MCA** (Master of Computer Application) · Mumbai, India
-
-</td></tr>
-</table>
-
+<div align="center">
+<img src="assets/about-me.svg" width="100%" />
+</div>
 <br/>
 
 ## 🧩 Services
