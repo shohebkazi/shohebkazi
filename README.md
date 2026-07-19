@@ -1,4 +1,7 @@
 <div align="center">
+<img src="assets/sk-techverse-hero-banner.svg" width="100%" />
+</div>
+<div align="center">
 
 <img src="assets/id-card.svg" width="700" />
 
