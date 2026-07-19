@@ -47,30 +47,48 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py&theme=dark" />
 
+<br/>
+
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" /> &nbsp;<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+
+<br/><br/>
 
 **Backend & Database**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 
+<br/>
+
 **Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" /> &nbsp;<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-06B6D4?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 </div>
 
-<div align="center"><img src="assets/scroll-flow.svg" width="70" /></div>
 
-## 🚀 Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+<img src="assets/featured-projects.svg" width="100%" />
+</div>
 
-### 🚀 SK TechVerse Portfolio
-Studio brand website — soft white + royal blue glassmorphism, WebGL/Three.js effects, full motion system.
+[SK TechVerse Portfolio](https://sk-techverse.vercel.app) · [MediSupply Pro](#) · [SK Mobile Shop](#) · [Krushi Utpadan](#) · [RMX Production](#) · [AK Associates](#)
+Upload: assets/tech-stack.svg aur assets/featured-projects.svg assets/ folder mein.
+Ab README ke saare major sections (Hero, About, Services, Tech Stack, Featured Projects, Journey, Analytics) custom animated SVG panels mein convert ho chuke hain — poora background 100% dark guaranteed rahega chahe viewer light mode mein ho ya dark. Chaho to main ab pura final README.md ek single file mein assemble kar doon sab kuch already wired ke sath?Tech stackImage · SVG Featured projectsImage · SVG tech stack me yese tool dikhne chhaiyeDeliberated embedding real brand icons versus markdown approachDeliberated embedding real brand icons versus markdown approachSamajh gaya — tumhe real brand logos (colorful icon badges) chahiye, meri wali abstract dot-chips nahi. Ye jo image tumne bheji hai wo actually skillicons.dev + shields.io ke real icons hain — yehi sabse reliable aur professional dikhne wala tarika hai (custom-drawn icons se better, kyunki ye asli logos hain).
+Ek cheez clear kar doon: agar main inhe apne dark custom-SVG panel ke andar embed karne ki koshish karu (jaisa maine photo ke sath kiya tha), to wahi purani problem wapas aa sakti hai (external image fetch fail). Isliye best aur guaranteed-working tarika hai inhe seedha real images ke roop mein use karna (jo GitHub natively support karta hai) — exactly jaisa tumhare screenshot mein hai.Ran a command, read a fileRan a command, read a fileYe bilkul tumhare screenshot jaisa render hoga (real HTML5, CSS3, JS, TS, PHP, Python, React, Vite, Tailwind, Node.js, Express, MongoDB, MySQL, Git, GitHub, VS Code, Figma, Postman logos + Framer Motion/Cloudinary/JWT/REST APIs badges).
+README mein kya karna hai:
+
+Purane assets/tech-stack.svg wale section (<img src="assets/tech-stack.svg" ...>) ko README se hata do
+Uski jagah upar wala poora markdown block paste kar do
+Ab tech-stack.svg file ki zaroorat nahi — repo mein upload mat karna
+
+Baaki sab sections (Hero, About, Services, Featured Projects, Journey) waise hi custom dark SVG panels mein rahenge — sirf Tech Stack real-logo image style mein hoga, jo actually zyada professional aur recognizable bhi dikhta hai.Tech stack sectionDocument · MD You’ve used 90% of your session limit
+Claude is AI and can make mistakes. Please double-check responses.
 
 `React` `Three.js` `GSAP`
 
