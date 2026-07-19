@@ -24,21 +24,18 @@
 
 
 
-## 👋 About Me
+
 
 <div align="center">
 <img src="assets/about-me.svg" width="100%" />
 </div>
 <br/>
 
-## 🧩 Services
 
-| | | |
-|:---:|:---:|:---:|
-| 🌐 **Business Websites** | 🤖 **AI Applications** | 📊 **Dashboard Systems** |
-| 🔐 **Admin Panels** | 🎨 **Portfolio Websites** | 🛒 **E-Commerce** |
-| 📦 **ERP Systems** | 🏋️ **Gym Management** | 🏥 **Hospital Management** |
-| 🍽️ **Restaurant Billing** | 📈 **Forex Platforms** | — |
+
+<div align="center">
+<img src="assets/services.svg" width="100%" />
+</div>
 
 <div align="center"><img src="assets/scroll-flow.svg" width="70" /></div>
 
