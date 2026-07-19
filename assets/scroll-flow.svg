@@ -1,0 +1,19 @@
+<svg viewBox="0 0 120 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="arrowGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+  <line x1="60" y1="0" x2="60" y2="35" stroke="url(#arrowGrad)" stroke-width="2" opacity="0.6"/>
+  <g transform="translate(60,45)">
+    <path d="M -16 -8 L 0 8 L 16 -8" fill="none" stroke="url(#arrowGrad)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="1">
+      <animateTransform attributeName="transform" type="translate" values="0,-6;0,10;0,-6" dur="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M -16 -22 L 0 -6 L 16 -22" fill="none" stroke="url(#arrowGrad)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.45">
+      <animateTransform attributeName="transform" type="translate" values="0,-6;0,10;0,-6" dur="1.6s" repeatCount="indefinite" begin="0.15s"/>
+      <animate attributeName="opacity" values="0.45;0.1;0.45" dur="1.6s" repeatCount="indefinite" begin="0.15s"/>
+    </path>
+  </g>
+</svg>
