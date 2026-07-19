@@ -1,0 +1,58 @@
+<svg viewBox="0 0 1300 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="50%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <filter id="nodeGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1300" height="260" fill="#05060f"/>
+
+  <line x1="70" y1="130" x2="1230" y2="130" stroke="url(#lineGrad)" stroke-width="3" opacity="0.55"/>
+
+  <circle r="7" fill="#ffffff" filter="url(#nodeGlow)">
+    <animateMotion path="M70,130 L1230,130" dur="4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- node 1 -->
+  <g transform="translate(70,130)">
+    <circle r="10" fill="#0F172A" stroke="#3B82F6" stroke-width="3" filter="url(#nodeGlow)"/>
+    <text x="0" y="-30" text-anchor="middle" font-family="Verdana" font-size="14" fill="#93C5FD" font-weight="bold">Started Coding</text>
+    <text x="0" y="45" text-anchor="middle" font-family="Verdana" font-size="12" fill="#6B7280">Foundations</text>
+  </g>
+
+  <!-- node 2 -->
+  <g transform="translate(360,130)">
+    <circle r="10" fill="#0F172A" stroke="#60A5FA" stroke-width="3" filter="url(#nodeGlow)"/>
+    <text x="0" y="45" text-anchor="middle" font-family="Verdana" font-size="14" fill="#93C5FD" font-weight="bold">Learning MERN</text>
+    <text x="0" y="-25" text-anchor="middle" font-family="Verdana" font-size="12" fill="#6B7280">React · Node · Mongo</text>
+  </g>
+
+  <!-- node 3 -->
+  <g transform="translate(650,130)">
+    <circle r="10" fill="#0F172A" stroke="#A855F7" stroke-width="3" filter="url(#nodeGlow)"/>
+    <text x="0" y="-30" text-anchor="middle" font-family="Verdana" font-size="14" fill="#C4B5FD" font-weight="bold">Built AI Projects</text>
+    <text x="0" y="45" text-anchor="middle" font-family="Verdana" font-size="12" fill="#6B7280">Gemini · OpenAI</text>
+  </g>
+
+  <!-- node 4 -->
+  <g transform="translate(940,130)">
+    <circle r="10" fill="#0F172A" stroke="#22D3EE" stroke-width="3" filter="url(#nodeGlow)"/>
+    <text x="0" y="45" text-anchor="middle" font-family="Verdana" font-size="14" fill="#A5F3FC" font-weight="bold">Started Freelancing</text>
+    <text x="0" y="-25" text-anchor="middle" font-family="Verdana" font-size="12" fill="#6B7280">Client delivery</text>
+  </g>
+
+  <!-- node 5 -->
+  <g transform="translate(1230,130)">
+    <circle r="12" fill="#0F172A" stroke="url(#lineGrad)" stroke-width="3.5" filter="url(#nodeGlow)">
+      <animate attributeName="r" values="12;15;12" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="-15" y="-30" text-anchor="end" font-family="Verdana" font-size="14" fill="#FDE68A" font-weight="bold">Building SK TechVerse</text>
+    <text x="-15" y="45" text-anchor="end" font-family="Verdana" font-size="12" fill="#6B7280">Premium products, today</text>
+  </g>
+</svg>
