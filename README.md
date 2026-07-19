@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1C,100:1E3A8A&height=220&section=header&text=Shoaib%20Kazi&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20SK%20TECHVERSE&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+<img src="assets/id-card.svg" width="700" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+production-ready+MERN+apps;Founder+%40+SK+TECHVERSE;Turning+ideas+into+shipped+products;MCA+Student+%7C+Mumbai%2C+India" />
+<br/><br/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+production-ready+MERN+apps;Founder+%40+SK+TECHVERSE;Turning+ideas+into+shipped+products;MCA+Student+%7C+Mumbai%2C+India" />
 
-<br/>
+<br/><br/>
 
-<div align="center">
-
-<img src="assets/sk-techverse-banner.png" width="380" style="border-radius: 50%;" />
+<img src="assets/scroll-flow.svg" width="70" />
 
 </div>
 
@@ -22,13 +20,13 @@
 
 ### 👋 About Me
 
-I'm **Shoaib Kazi**, a full-stack developer based in Mumbai, running my own studio, **SK TECHVERSE**. I design and ship complete, production-ready web applications — from architecture to deployment — for personal projects and clients across e-commerce, real estate, healthcare, and media.
+I'm **Shoheb Kazi**, a full-stack developer based in Mumbai, running my own studio, **SK TECHVERSE**. I design and ship complete, production-ready web applications — from architecture to deployment — for personal projects and clients across e-commerce, real estate, healthcare, and media.
 
 - 🔭 Currently building enterprise platforms on the **MERN stack**
 - 🎓 Pursuing my **MCA** (Master of Computer Application)
 - 🎨 Obsessed with **glassmorphism, cinematic UI, and dark premium themes**
 - ⚙️ From frontend polish to backend architecture — I own the full pipeline
-- 📫 Reach me: **[your email]** • Portfolio: **[your portfolio link]**
+- 📫 shoaibkazi1438@gmail.com · [sk-techverse.vercel.app](https://sk-techverse.vercel.app)
 
 </td>
 <td width="40%" valign="top" align="center">
@@ -39,7 +37,9 @@ I'm **Shoaib Kazi**, a full-stack developer based in Mumbai, running my own stud
 </tr>
 </table>
 
-<br/>
+<div align="center">
+<img src="assets/scroll-flow.svg" width="70" />
+</div>
 
 <div align="center">
 
@@ -49,7 +49,9 @@ I'm **Shoaib Kazi**, a full-stack developer based in Mumbai, running my own stud
 
 </div>
 
-<br/>
+<div align="center">
+<img src="assets/scroll-flow.svg" width="70" />
+</div>
 
 <div align="center">
 
@@ -96,7 +98,9 @@ Cinematic portfolio site for a video production brand — motion-driven, visuall
 </tr>
 </table>
 
-<br/>
+<div align="center">
+<img src="assets/scroll-flow.svg" width="70" />
+</div>
 
 <div align="center">
 
@@ -107,8 +111,6 @@ Cinematic portfolio site for a video production brand — motion-driven, visuall
 
 </div>
 
-<br/>
-
 <div align="center">
 
 ### 📈 Activity Graph
@@ -117,7 +119,9 @@ Cinematic portfolio site for a video production brand — motion-driven, visuall
 
 </div>
 
-<br/>
+<div align="center">
+<img src="assets/scroll-flow.svg" width="70" />
+</div>
 
 <div align="center">
 
@@ -125,11 +129,9 @@ Cinematic portfolio site for a video production brand — motion-driven, visuall
 
 <img src="https://raw.githubusercontent.com/shohebkazi/shohebkazi/output/github-contribution-grid-snake-dark.svg" width="95%" />
 
-<sub>Live snake animation eating your contribution graph — setup steps below ⬇️</sub>
+<sub>Live snake animation eating the contribution graph — Actions setup below ⬇️</sub>
 
 </div>
-
-<br/>
 
 <div align="center">
 
@@ -138,8 +140,6 @@ Cinematic portfolio site for a video production brand — motion-driven, visuall
 <img src="https://github-profile-trophy.vercel.app/?username=shohebkazi&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="95%" />
 
 </div>
-
-<br/>
 
 <div align="center">
 
@@ -151,15 +151,15 @@ Cinematic portfolio site for a video production brand — motion-driven, visuall
 
 </div>
 
-<br/>
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=shohebkazi&label=Profile%20Views&color=3B82F6&style=for-the-badge" />
 
 </div>
 
-<br/>
+<div align="center">
+<img src="assets/scroll-flow.svg" width="70" />
+</div>
 
 <div align="center">
 
